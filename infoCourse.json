@@ -1,7 +1,7 @@
 {
-  "uuid": "REPLACE ME WITH A VALID UUID by running uuidgen in a shell",
-  "name": "CS170",
-  "title": "Efficient Algorithms and Intractable Problems",
+  "uuid": "AFEAEB16-AC26-4C3B-8C82-6169C66442C4",
+  "name": "PL Active Environment Runtime",
+  "title": "PL Active Environment Runtime",
   "options": {
     "useNewQuestionRenderer": true
   },

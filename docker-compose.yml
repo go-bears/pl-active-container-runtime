@@ -1,0 +1,7 @@
+services:
+  pl-active-container-runtime:
+    image: prairielearn/prairielearn:latest
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/course
