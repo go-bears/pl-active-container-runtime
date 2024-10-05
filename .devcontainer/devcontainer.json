@@ -5,7 +5,7 @@
 
     "dockerComposeFile": [ "docker-compose.yml" ],
     "service" : "devcontainer",
-    "workspaceFolder": "/workspaces/pl-ucb-csxxx",
+    "workspaceFolder": "/workspaces/pl-active-container-runtime",
 	
     "forwardPorts": [ 3000 ],
 
